@@ -1,4 +1,4 @@
-# tips API
+# TIPS API
 Create and manage TV show scripts / rundowns / running orders
 
-This is the api for the front-end https://github.com/tvscripter/tips
+This is the server back-end. It hosts connnections from the web front-end https://github.com/tvscripter/tips
